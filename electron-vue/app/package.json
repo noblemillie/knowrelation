@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "electron.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bulma": "0.0.26",
+    "materialize-css": "^0.97.6",
+    "vue": "^1.0.24",
+    "vue-resource": "^0.7.0",
+    "vue-router": "^0.7.13",
+    "vuex": "^0.6.3"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
