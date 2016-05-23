@@ -1,15 +1,15 @@
-[![](docs/logo.png)](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html)
+<!-- (docs/logo.png)](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html) -->
 
 > The boilerplate for making electron apps using vue (pretty much what it sounds like).
 
 ####**This project is still in *development*.**
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+<!--
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com) -->
 
 ## Overview
 The aim of this project is to remove the need to setup electron apps using vue. Since vue can take advantage of module loaders like webpack, getting everything to play nicely can be a little tricky.
 
-**Check out the documentation [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).**
+<!-- **Check out the documentation [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).** -->
 
 Things you'll find in this boilerplate...
   * Basic project structure

@@ -1,5 +1,5 @@
 {
-  "name": "electron-vue",
+  "name": "knowrelation",
   "version": "0.1.0",
   "description": "An Electron & Vue.js quick starter",
   "scripts": {
@@ -55,5 +55,13 @@
   "main": ".eslintrc.js",
   "directories": {
     "doc": "docs"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noblemillie/knowrelation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noblemillie/knowrelation/issues"
+  },
+  "homepage": "https://github.com/noblemillie/knowrelation#readme"
 }
