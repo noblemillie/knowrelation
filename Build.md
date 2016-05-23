@@ -24,7 +24,7 @@ nvm use 5.0
 nvm run 5.0 --version
 nvm install node --reinstall-packages-from=node
 
-
+npm install npm-autoinit
 
 electron-vue cli
    git clone https://github.com/SimulatedGREG/electron-vue
